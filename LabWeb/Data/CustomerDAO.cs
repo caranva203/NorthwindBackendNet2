@@ -70,8 +70,6 @@ namespace LabWeb.Data
             {
                 return null;
             }
-
-
         }
 
         public int eliminarCliente(string id)
